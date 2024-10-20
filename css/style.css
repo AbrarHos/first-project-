@@ -128,6 +128,7 @@ section#hero li img {
 section#skillset .skills {
     width: 500px;
     margin: auto;
+    color: var(--main-blue);
 }
 
 section#skillset span {
